@@ -1,0 +1,14 @@
+{
+  "name": "FlowerListDemo",
+  "version": "0.0.1",
+  "description": "Gulp Minify Javascript task",
+  "scripts": {
+    "startGulp": "gulp"
+  },
+  "author": "Sandeep",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-uglify": "^1.4.0"
+  }
+}
